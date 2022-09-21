@@ -25,6 +25,6 @@
     },
     "dependencies": {
         "sweetalert2": "^9.8.1",
-        "vuetify": "^2.2.14"
+        "vuetify": "^2.6.10"
     }
 }
